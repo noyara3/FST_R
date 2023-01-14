@@ -15,13 +15,14 @@ this is a **bold** *italic*
 2. Then tis you will see as an output:
 ![](https://raw.githubusercontent.com/noyara3/FST_R/main/images/pophelperShiny_v2.1.1_barplot.png?token=GHSAT0AAAAAAB4YBV6P3HPUDYXWB3YLT3BKY6CW7AQ)
 
-
-
+<details>
+<summary>Click here fore more details and code</summary>
+  
 * number 2
 
 - code like this:
 
-```{python}
+```{r}
 install.packages("ggplot2", repos = "http://cran.us.r-project.org")
 library("ggplot2") 
 install.packages("adegenet", repos = "http://cran.us.r-project.org") 
@@ -39,7 +40,7 @@ library("scales")
 install.packages("RColorBrewer", repos = "http://cran.us.r-project.org") 
 library("RColorBrewer") 
 ```
-
+</details>
 
 - sewew
 
