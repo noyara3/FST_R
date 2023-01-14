@@ -14,4 +14,4 @@ this is a **bold** *italic*
 - sdsds
 - sewew
 
-(Goo)[www.google.com]
+[goo](www.google.com)
