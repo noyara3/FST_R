@@ -21,7 +21,7 @@ this is a **bold** *italic*
 
 - code like this:
 
-```{r}
+```{python}
 install.packages("ggplot2", repos = "http://cran.us.r-project.org")
 library("ggplot2") 
 install.packages("adegenet", repos = "http://cran.us.r-project.org") 
