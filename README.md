@@ -16,7 +16,7 @@ this is a **bold** *italic*
 ![](https://raw.githubusercontent.com/noyara3/FST_R/main/images/pophelperShiny_v2.1.1_barplot.png?token=GHSAT0AAAAAAB4YBV6P3HPUDYXWB3YLT3BKY6CW7AQ)
 
 <details>
-<summary>Click here fore more details and code</summary>
+<summary>*Click here fore more details and code*</summary>
   
 * number 2
 
