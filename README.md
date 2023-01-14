@@ -19,7 +19,28 @@ this is a **bold** *italic*
 
 * number 2
 
-- sdsds
+- code like this:
+
+```{r}
+install.packages("ggplot2", repos = "http://cran.us.r-project.org")
+library("ggplot2") 
+install.packages("adegenet", repos = "http://cran.us.r-project.org") 
+library("adegenet") 
+install.packages("dplyr", repos = "http://cran.us.r-project.org") 
+library("dplyr") 
+install.packages("poppr", repos = "http://cran.us.r-project.org") 
+library("poppr") 
+install.packages("hierfstat", repos = "http://cran.us.r-project.org") 
+library("hierfstat") 
+install.packages("reshape2", repos = "http://cran.us.r-project.org") 
+library("reshape2") 
+install.packages("scales", repos = "http://cran.us.r-project.org") 
+library("scales") 
+install.packages("RColorBrewer", repos = "http://cran.us.r-project.org") 
+library("RColorBrewer") 
+```
+
+
 - sewew
 
 [goo](www.google.com)
